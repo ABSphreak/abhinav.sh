@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "portfolio-website-abs",
+  "description": "Abhinav Sharma's Portfolio Site",
   "version": "0.2.0",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "author": "Abhinav Sharma <hello@lekoarts.de>",
   "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
