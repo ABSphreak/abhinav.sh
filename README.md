@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Personal Website</h1><br/>
-  <i><a href="https://www.abhinav.sh">abhinav.sh</a></i><br/>
+  <i><a href="https://www.abhinav.sh" target="_blank">abhinav.sh</a></i><br/>
   <i>Template by LekoArts</i>
   <h3>Under Progress 🚧</h3>
   <h5>(This is just a placeholder website for now, main site is under development)</h5>
